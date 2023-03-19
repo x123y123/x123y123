@@ -1,14 +1,23 @@
-- 👋 Hi, I’m a rookie in Linux Programming.
-- 👀 Welcome for any comments and suggestions.
-
+<a href="https://github.com/x123y123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x123y123&theme=vue-dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x123y123&theme=vue-dark&layout=compact" />
+</a>
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x123y123&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x123y123&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x123y123&theme=github)
+-->
 
 ---
 
 [![Mail Badge](https://img.shields.io/badge/-a0921444212@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a0921444212@gmail.com)](mailto:a0921444212@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Liu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tony-liu-a442141b7/ "LinkedIn")
+
+### 😄About me
+- 👋 Hi, I’m a rookie in Linux Programming.
+- 🎓 Master in Electrical and Electronic Engineering at National Chung Cheng University (CCU).
+- 🌱 Learning more about Linux Programming, DVFS based on RL(reinforcement learning), HDL and RTOS.
+- 👀 Welcome for any comments and suggestions.
 
 ### ⚙️Tech Stack
 - 💻
