@@ -21,8 +21,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 
-  ![Vim](https://img.shields.io/badge/VIM-333333?style=flat&logo=vim&logoColor=white)
+  ![Vim](https://img.shields.io/badge/VIM-333333?style=flat&logo=vim&logoColor=white
+  ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=maroon)
 - 💻
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-333333?style=flat&logo=macos&logoColor=F0F0F0)
