@@ -15,13 +15,13 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white))
+  ![Shell Script](https://img.shields.io/badge/shell_script-333333?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ⚙️ 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+  ![Vim](https://img.shields.io/badge/VIM-333333?style=for-the-badge&logo=vim&logoColor=white)
 - 💻
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
