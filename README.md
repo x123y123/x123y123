@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Liu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tony-liu-a442141b7/ "LinkedIn")
 
 ### 😄About me
-- 👋 Hi, I’m a rookie in Linux Programming.
+- 👋 Hi, I’m Tony from Taiwan.
 - 🎓 Master in Electrical and Electronic Engineering at National Chung Cheng University (CCU).
 - 🌱 Learning more about Linux Programming, DVFS based on RL(reinforcement learning), HDL and RTOS.
 - 👀 Welcome for any comments and suggestions.
